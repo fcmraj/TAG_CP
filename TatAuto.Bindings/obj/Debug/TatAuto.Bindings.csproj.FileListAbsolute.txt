@@ -1,0 +1,69 @@
+C:\Users\Developement\Desktop\SpecflowWithSelenium\TatAuto.Bindings\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Developement\Desktop\SpecflowWithSelenium\TatAuto.Bindings\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Developement\Desktop\SpecflowWithSelenium\TatAuto.Bindings\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Developement\Desktop\SpecflowWithSelenium\TatAuto.Bindings\bin\Debug\TatAuto.Bindings.dll.config
+C:\Users\Developement\Desktop\SpecflowWithSelenium\TatAuto.Bindings\bin\Debug\TatAuto.Bindings.dll
+C:\Users\Developement\Desktop\SpecflowWithSelenium\TatAuto.Bindings\bin\Debug\TatAuto.Bindings.pdb
+C:\Users\Developement\Desktop\SpecflowWithSelenium\TatAuto.Bindings\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Developement\Desktop\SpecflowWithSelenium\TatAuto.Bindings\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Developement\Desktop\SpecflowWithSelenium\TatAuto.Bindings\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Developement\Desktop\SpecflowWithSelenium\TatAuto.Bindings\bin\Debug\TechTalk.SpecFlow.dll
+C:\Users\Developement\Desktop\SpecflowWithSelenium\TatAuto.Bindings\bin\Debug\WebDriver.dll
+C:\Users\Developement\Desktop\SpecflowWithSelenium\TatAuto.Bindings\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Developement\Desktop\SpecflowWithSelenium\TatAuto.Bindings\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Developement\Desktop\SpecflowWithSelenium\TatAuto.Bindings\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Developement\Desktop\SpecflowWithSelenium\TatAuto.Bindings\bin\Debug\WebDriver.xml
+C:\Users\Developement\Desktop\SpecflowWithSelenium\TatAuto.Bindings\obj\Debug\TatAuto.Bindings.csprojResolveAssemblyReference.cache
+C:\Users\Developement\Desktop\SpecflowWithSelenium\TatAuto.Bindings\obj\Debug\TatAuto.Bindings.csproj.CoreCompileInputs.cache
+C:\Users\Developement\Desktop\SpecflowWithSelenium\TatAuto.Bindings\obj\Debug\TatAuto.Bindings.dll
+C:\Users\Developement\Desktop\SpecflowWithSelenium\TatAuto.Bindings\obj\Debug\TatAuto.Bindings.pdb
+C:\Users\Developement\Desktop\SpecflowWithSelenium\TatAuto.Bindings\bin\Debug\TatAuto.Pages.dll
+C:\Users\Developement\Desktop\SpecflowWithSelenium\TatAuto.Bindings\bin\Debug\WebDriver.Support.dll
+C:\Users\Developement\Desktop\SpecflowWithSelenium\TatAuto.Bindings\bin\Debug\TatAuto.Pages.pdb
+C:\Users\Developement\Desktop\SpecflowWithSelenium\TatAuto.Bindings\bin\Debug\WebDriver.Support.xml
+C:\Users\fmichelraj\Documents\My C# Repo\SpecflowWithPageObjects\SpecflowWithPageObjects\TatAuto.Bindings\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\fmichelraj\Documents\My C# Repo\SpecflowWithPageObjects\SpecflowWithPageObjects\TatAuto.Bindings\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\fmichelraj\Documents\My C# Repo\SpecflowWithPageObjects\SpecflowWithPageObjects\TatAuto.Bindings\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\fmichelraj\Documents\My C# Repo\SpecflowWithPageObjects\SpecflowWithPageObjects\TatAuto.Bindings\bin\Debug\TatAuto.Bindings.dll.config
+C:\Users\fmichelraj\Documents\My C# Repo\SpecflowWithPageObjects\SpecflowWithPageObjects\TatAuto.Bindings\bin\Debug\TatAuto.Bindings.dll
+C:\Users\fmichelraj\Documents\My C# Repo\SpecflowWithPageObjects\SpecflowWithPageObjects\TatAuto.Bindings\bin\Debug\TatAuto.Bindings.pdb
+C:\Users\fmichelraj\Documents\My C# Repo\SpecflowWithPageObjects\SpecflowWithPageObjects\TatAuto.Bindings\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\fmichelraj\Documents\My C# Repo\SpecflowWithPageObjects\SpecflowWithPageObjects\TatAuto.Bindings\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\fmichelraj\Documents\My C# Repo\SpecflowWithPageObjects\SpecflowWithPageObjects\TatAuto.Bindings\bin\Debug\Newtonsoft.Json.dll
+C:\Users\fmichelraj\Documents\My C# Repo\SpecflowWithPageObjects\SpecflowWithPageObjects\TatAuto.Bindings\bin\Debug\TatAuto.Pages.dll
+C:\Users\fmichelraj\Documents\My C# Repo\SpecflowWithPageObjects\SpecflowWithPageObjects\TatAuto.Bindings\bin\Debug\TechTalk.SpecFlow.dll
+C:\Users\fmichelraj\Documents\My C# Repo\SpecflowWithPageObjects\SpecflowWithPageObjects\TatAuto.Bindings\bin\Debug\WebDriver.dll
+C:\Users\fmichelraj\Documents\My C# Repo\SpecflowWithPageObjects\SpecflowWithPageObjects\TatAuto.Bindings\bin\Debug\WebDriver.Support.dll
+C:\Users\fmichelraj\Documents\My C# Repo\SpecflowWithPageObjects\SpecflowWithPageObjects\TatAuto.Bindings\bin\Debug\TatAuto.Pages.pdb
+C:\Users\fmichelraj\Documents\My C# Repo\SpecflowWithPageObjects\SpecflowWithPageObjects\TatAuto.Bindings\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\fmichelraj\Documents\My C# Repo\SpecflowWithPageObjects\SpecflowWithPageObjects\TatAuto.Bindings\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\fmichelraj\Documents\My C# Repo\SpecflowWithPageObjects\SpecflowWithPageObjects\TatAuto.Bindings\bin\Debug\Newtonsoft.Json.xml
+C:\Users\fmichelraj\Documents\My C# Repo\SpecflowWithPageObjects\SpecflowWithPageObjects\TatAuto.Bindings\bin\Debug\WebDriver.xml
+C:\Users\fmichelraj\Documents\My C# Repo\SpecflowWithPageObjects\SpecflowWithPageObjects\TatAuto.Bindings\bin\Debug\WebDriver.Support.xml
+C:\Users\fmichelraj\Documents\My C# Repo\SpecflowWithPageObjects\SpecflowWithPageObjects\TatAuto.Bindings\obj\Debug\TatAuto.Bindings.csprojAssemblyReference.cache
+C:\Users\fmichelraj\Documents\My C# Repo\SpecflowWithPageObjects\SpecflowWithPageObjects\TatAuto.Bindings\obj\Debug\TatAuto.Bindings.csproj.CopyComplete
+C:\Users\fmichelraj\Documents\My C# Repo\SpecflowWithPageObjects\SpecflowWithPageObjects\TatAuto.Bindings\obj\Debug\TatAuto.Bindings.dll
+C:\Users\fmichelraj\Documents\My C# Repo\SpecflowWithPageObjects\SpecflowWithPageObjects\TatAuto.Bindings\obj\Debug\TatAuto.Bindings.pdb
+C:\Users\fmichelraj\Documents\My C# Repo\SpecflowWithPageObjects\TAG_Client_Portal\TatAuto.Bindings\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\fmichelraj\Documents\My C# Repo\SpecflowWithPageObjects\TAG_Client_Portal\TatAuto.Bindings\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\fmichelraj\Documents\My C# Repo\SpecflowWithPageObjects\TAG_Client_Portal\TatAuto.Bindings\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\fmichelraj\Documents\My C# Repo\SpecflowWithPageObjects\TAG_Client_Portal\TatAuto.Bindings\bin\Debug\TatAuto.Bindings.dll.config
+C:\Users\fmichelraj\Documents\My C# Repo\SpecflowWithPageObjects\TAG_Client_Portal\TatAuto.Bindings\bin\Debug\TatAuto.Bindings.dll
+C:\Users\fmichelraj\Documents\My C# Repo\SpecflowWithPageObjects\TAG_Client_Portal\TatAuto.Bindings\bin\Debug\TatAuto.Bindings.pdb
+C:\Users\fmichelraj\Documents\My C# Repo\SpecflowWithPageObjects\TAG_Client_Portal\TatAuto.Bindings\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\fmichelraj\Documents\My C# Repo\SpecflowWithPageObjects\TAG_Client_Portal\TatAuto.Bindings\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\fmichelraj\Documents\My C# Repo\SpecflowWithPageObjects\TAG_Client_Portal\TatAuto.Bindings\bin\Debug\Newtonsoft.Json.dll
+C:\Users\fmichelraj\Documents\My C# Repo\SpecflowWithPageObjects\TAG_Client_Portal\TatAuto.Bindings\bin\Debug\TatAuto.Pages.dll
+C:\Users\fmichelraj\Documents\My C# Repo\SpecflowWithPageObjects\TAG_Client_Portal\TatAuto.Bindings\bin\Debug\TechTalk.SpecFlow.dll
+C:\Users\fmichelraj\Documents\My C# Repo\SpecflowWithPageObjects\TAG_Client_Portal\TatAuto.Bindings\bin\Debug\WebDriver.dll
+C:\Users\fmichelraj\Documents\My C# Repo\SpecflowWithPageObjects\TAG_Client_Portal\TatAuto.Bindings\bin\Debug\WebDriver.Support.dll
+C:\Users\fmichelraj\Documents\My C# Repo\SpecflowWithPageObjects\TAG_Client_Portal\TatAuto.Bindings\bin\Debug\TatAuto.Pages.pdb
+C:\Users\fmichelraj\Documents\My C# Repo\SpecflowWithPageObjects\TAG_Client_Portal\TatAuto.Bindings\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\fmichelraj\Documents\My C# Repo\SpecflowWithPageObjects\TAG_Client_Portal\TatAuto.Bindings\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\fmichelraj\Documents\My C# Repo\SpecflowWithPageObjects\TAG_Client_Portal\TatAuto.Bindings\bin\Debug\Newtonsoft.Json.xml
+C:\Users\fmichelraj\Documents\My C# Repo\SpecflowWithPageObjects\TAG_Client_Portal\TatAuto.Bindings\bin\Debug\WebDriver.xml
+C:\Users\fmichelraj\Documents\My C# Repo\SpecflowWithPageObjects\TAG_Client_Portal\TatAuto.Bindings\bin\Debug\WebDriver.Support.xml
+C:\Users\fmichelraj\Documents\My C# Repo\SpecflowWithPageObjects\TAG_Client_Portal\TatAuto.Bindings\obj\Debug\TatAuto.Bindings.csprojAssemblyReference.cache
+C:\Users\fmichelraj\Documents\My C# Repo\SpecflowWithPageObjects\TAG_Client_Portal\TatAuto.Bindings\obj\Debug\TatAuto.Bindings.csproj.CopyComplete
+C:\Users\fmichelraj\Documents\My C# Repo\SpecflowWithPageObjects\TAG_Client_Portal\TatAuto.Bindings\obj\Debug\TatAuto.Bindings.dll
+C:\Users\fmichelraj\Documents\My C# Repo\SpecflowWithPageObjects\TAG_Client_Portal\TatAuto.Bindings\obj\Debug\TatAuto.Bindings.pdb
