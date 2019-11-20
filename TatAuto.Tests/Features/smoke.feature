@@ -18,8 +18,6 @@ Scenario Outline: UnSuccessful Login
 
 Examples: 
  | name             | username | password | errorMsg                      |
- | Blank Username   |          | password |                               |
- | Blank Password   | admin    |          |                               |
  | invalid Password | admin    | $%GGH    | Invalid user name or password |
  | invalid username | 66987    | password | Invalid user name or password |
 

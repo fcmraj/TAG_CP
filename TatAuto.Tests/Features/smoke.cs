@@ -127,37 +127,37 @@ this.ScenarioSetup(scenarioInfo);
         [Microsoft.VisualStudio.TestTools.UnitTesting.TestPropertyAttribute("Parameter:username", "")]
         [Microsoft.VisualStudio.TestTools.UnitTesting.TestPropertyAttribute("Parameter:password", "password")]
         [Microsoft.VisualStudio.TestTools.UnitTesting.TestPropertyAttribute("Parameter:errorMsg", "ERROR: The username field is empty.")]
-        public virtual void UnSuccessfulLogin_BlankUsername()
-        {
-#line 13
-this.UnSuccessfulLogin("Blank Username", "", "password", "ERROR: The username field is empty.", ((string[])(null)));
-#line hidden
-        }
-        
-        [Microsoft.VisualStudio.TestTools.UnitTesting.TestMethodAttribute()]
-        [Microsoft.VisualStudio.TestTools.UnitTesting.DescriptionAttribute("UnSuccessful Login: Blank Password")]
-        [Microsoft.VisualStudio.TestTools.UnitTesting.TestPropertyAttribute("FeatureTitle", "Login")]
-        [Microsoft.VisualStudio.TestTools.UnitTesting.TestPropertyAttribute("VariantName", "Blank Password")]
-        [Microsoft.VisualStudio.TestTools.UnitTesting.TestPropertyAttribute("Parameter:name", "Blank Password")]
-        [Microsoft.VisualStudio.TestTools.UnitTesting.TestPropertyAttribute("Parameter:username", "admin")]
-        [Microsoft.VisualStudio.TestTools.UnitTesting.TestPropertyAttribute("Parameter:password", "")]
-        [Microsoft.VisualStudio.TestTools.UnitTesting.TestPropertyAttribute("Parameter:errorMsg", "ERROR: The password field is empty.")]
-        public virtual void UnSuccessfulLogin_BlankPassword()
-        {
-#line 13
-this.UnSuccessfulLogin("Blank Password", "admin", "", "ERROR: The password field is empty.", ((string[])(null)));
-#line hidden
-        }
-        
-        [Microsoft.VisualStudio.TestTools.UnitTesting.TestMethodAttribute()]
-        [Microsoft.VisualStudio.TestTools.UnitTesting.DescriptionAttribute("UnSuccessful Login: invalid Password")]
-        [Microsoft.VisualStudio.TestTools.UnitTesting.TestPropertyAttribute("FeatureTitle", "Login")]
-        [Microsoft.VisualStudio.TestTools.UnitTesting.TestPropertyAttribute("VariantName", "invalid Password")]
-        [Microsoft.VisualStudio.TestTools.UnitTesting.TestPropertyAttribute("Parameter:name", "invalid Password")]
-        [Microsoft.VisualStudio.TestTools.UnitTesting.TestPropertyAttribute("Parameter:username", "admin")]
-        [Microsoft.VisualStudio.TestTools.UnitTesting.TestPropertyAttribute("Parameter:password", "$%GGH")]
-        [Microsoft.VisualStudio.TestTools.UnitTesting.TestPropertyAttribute("Parameter:errorMsg", "ERROR: The password you entered for the username admin is incorrect. Lost your pa" +
-            "ssword?")]
+        /*        public virtual void UnSuccessfulLogin_BlankUsername()
+                {
+        #line 13
+        this.UnSuccessfulLogin("Blank Username", "", "password", "ERROR: The username field is empty.", ((string[])(null)));
+        #line hidden
+                }
+
+                [Microsoft.VisualStudio.TestTools.UnitTesting.TestMethodAttribute()]
+                [Microsoft.VisualStudio.TestTools.UnitTesting.DescriptionAttribute("UnSuccessful Login: Blank Password")]
+                [Microsoft.VisualStudio.TestTools.UnitTesting.TestPropertyAttribute("FeatureTitle", "Login")]
+                [Microsoft.VisualStudio.TestTools.UnitTesting.TestPropertyAttribute("VariantName", "Blank Password")]
+                [Microsoft.VisualStudio.TestTools.UnitTesting.TestPropertyAttribute("Parameter:name", "Blank Password")]
+                [Microsoft.VisualStudio.TestTools.UnitTesting.TestPropertyAttribute("Parameter:username", "admin")]
+                [Microsoft.VisualStudio.TestTools.UnitTesting.TestPropertyAttribute("Parameter:password", "")]
+                [Microsoft.VisualStudio.TestTools.UnitTesting.TestPropertyAttribute("Parameter:errorMsg", "ERROR: The password field is empty.")]
+                public virtual void UnSuccessfulLogin_BlankPassword()
+                {
+        #line 13
+        this.UnSuccessfulLogin("Blank Password", "admin", "", "ERROR: The password field is empty.", ((string[])(null)));
+        #line hidden
+                }
+
+                [Microsoft.VisualStudio.TestTools.UnitTesting.TestMethodAttribute()]
+                [Microsoft.VisualStudio.TestTools.UnitTesting.DescriptionAttribute("UnSuccessful Login: invalid Password")]
+                [Microsoft.VisualStudio.TestTools.UnitTesting.TestPropertyAttribute("FeatureTitle", "Login")]
+                [Microsoft.VisualStudio.TestTools.UnitTesting.TestPropertyAttribute("VariantName", "invalid Password")]
+                [Microsoft.VisualStudio.TestTools.UnitTesting.TestPropertyAttribute("Parameter:name", "invalid Password")]
+                [Microsoft.VisualStudio.TestTools.UnitTesting.TestPropertyAttribute("Parameter:username", "admin")]
+                [Microsoft.VisualStudio.TestTools.UnitTesting.TestPropertyAttribute("Parameter:password", "$%GGH")]
+                [Microsoft.VisualStudio.TestTools.UnitTesting.TestPropertyAttribute("Parameter:errorMsg", "ERROR: The password you entered for the username admin is incorrect. Lost your pa" +
+                    "ssword?")] */
         public virtual void UnSuccessfulLogin_InvalidPassword()
         {
 #line 13
