@@ -2,8 +2,8 @@
 As a user, 
 I want a self-service password setup at onboarding 
 so that I can gain access to my account on the TAG corporate portal. 
-#978 - 
-#1115 - 
+#978 - SelfServicePasswordSetup
+#1115 - Enforce Strong Password Policy 
 
 
 @mytag

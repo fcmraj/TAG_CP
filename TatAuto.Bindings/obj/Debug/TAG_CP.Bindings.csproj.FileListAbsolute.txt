@@ -45,3 +45,27 @@ E:\Automation_Projects\Samples\C#_Projects\SpecflowWithPageObjects\TAG_Client_Po
 E:\Automation_Projects\Samples\C#_Projects\SpecflowWithPageObjects\TAG_Client_Portal - Copy\TatAuto.Bindings\obj\Debug\TAG_CP.Bindings.csproj.CopyComplete
 E:\Automation_Projects\Samples\C#_Projects\SpecflowWithPageObjects\TAG_Client_Portal - Copy\TatAuto.Bindings\obj\Debug\TatAuto.Bindings.dll
 E:\Automation_Projects\Samples\C#_Projects\SpecflowWithPageObjects\TAG_Client_Portal - Copy\TatAuto.Bindings\obj\Debug\TatAuto.Bindings.pdb
+E:\Automation_Projects\Samples\C#_Projects\SpecflowWithPageObjects\GIT_HUB\TAG_CP\TatAuto.Bindings\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\Automation_Projects\Samples\C#_Projects\SpecflowWithPageObjects\GIT_HUB\TAG_CP\TatAuto.Bindings\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\Automation_Projects\Samples\C#_Projects\SpecflowWithPageObjects\GIT_HUB\TAG_CP\TatAuto.Bindings\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\Automation_Projects\Samples\C#_Projects\SpecflowWithPageObjects\GIT_HUB\TAG_CP\TatAuto.Bindings\bin\Debug\TatAuto.Bindings.dll.config
+E:\Automation_Projects\Samples\C#_Projects\SpecflowWithPageObjects\GIT_HUB\TAG_CP\TatAuto.Bindings\bin\Debug\TatAuto.Bindings.dll
+E:\Automation_Projects\Samples\C#_Projects\SpecflowWithPageObjects\GIT_HUB\TAG_CP\TatAuto.Bindings\bin\Debug\TatAuto.Bindings.pdb
+E:\Automation_Projects\Samples\C#_Projects\SpecflowWithPageObjects\GIT_HUB\TAG_CP\TatAuto.Bindings\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\Automation_Projects\Samples\C#_Projects\SpecflowWithPageObjects\GIT_HUB\TAG_CP\TatAuto.Bindings\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\Automation_Projects\Samples\C#_Projects\SpecflowWithPageObjects\GIT_HUB\TAG_CP\TatAuto.Bindings\bin\Debug\Newtonsoft.Json.dll
+E:\Automation_Projects\Samples\C#_Projects\SpecflowWithPageObjects\GIT_HUB\TAG_CP\TatAuto.Bindings\bin\Debug\TatAuto.Pages.dll
+E:\Automation_Projects\Samples\C#_Projects\SpecflowWithPageObjects\GIT_HUB\TAG_CP\TatAuto.Bindings\bin\Debug\TechTalk.SpecFlow.dll
+E:\Automation_Projects\Samples\C#_Projects\SpecflowWithPageObjects\GIT_HUB\TAG_CP\TatAuto.Bindings\bin\Debug\WebDriver.dll
+E:\Automation_Projects\Samples\C#_Projects\SpecflowWithPageObjects\GIT_HUB\TAG_CP\TatAuto.Bindings\bin\Debug\WebDriver.Support.dll
+E:\Automation_Projects\Samples\C#_Projects\SpecflowWithPageObjects\GIT_HUB\TAG_CP\TatAuto.Bindings\bin\Debug\TatAuto.Pages.pdb
+E:\Automation_Projects\Samples\C#_Projects\SpecflowWithPageObjects\GIT_HUB\TAG_CP\TatAuto.Bindings\bin\Debug\TatAuto.Pages.dll.config
+E:\Automation_Projects\Samples\C#_Projects\SpecflowWithPageObjects\GIT_HUB\TAG_CP\TatAuto.Bindings\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\Automation_Projects\Samples\C#_Projects\SpecflowWithPageObjects\GIT_HUB\TAG_CP\TatAuto.Bindings\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\Automation_Projects\Samples\C#_Projects\SpecflowWithPageObjects\GIT_HUB\TAG_CP\TatAuto.Bindings\bin\Debug\Newtonsoft.Json.xml
+E:\Automation_Projects\Samples\C#_Projects\SpecflowWithPageObjects\GIT_HUB\TAG_CP\TatAuto.Bindings\bin\Debug\WebDriver.xml
+E:\Automation_Projects\Samples\C#_Projects\SpecflowWithPageObjects\GIT_HUB\TAG_CP\TatAuto.Bindings\bin\Debug\WebDriver.Support.xml
+E:\Automation_Projects\Samples\C#_Projects\SpecflowWithPageObjects\GIT_HUB\TAG_CP\TatAuto.Bindings\obj\Debug\TAG_CP.Bindings.csprojAssemblyReference.cache
+E:\Automation_Projects\Samples\C#_Projects\SpecflowWithPageObjects\GIT_HUB\TAG_CP\TatAuto.Bindings\obj\Debug\TAG_CP.Bindings.csproj.CopyComplete
+E:\Automation_Projects\Samples\C#_Projects\SpecflowWithPageObjects\GIT_HUB\TAG_CP\TatAuto.Bindings\obj\Debug\TatAuto.Bindings.dll
+E:\Automation_Projects\Samples\C#_Projects\SpecflowWithPageObjects\GIT_HUB\TAG_CP\TatAuto.Bindings\obj\Debug\TatAuto.Bindings.pdb

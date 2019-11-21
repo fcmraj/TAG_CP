@@ -63,8 +63,17 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="Features\GUI\1157_Access_to_Dashboards_and_Reports.feature" />
+    <None Include="Features\GUI\1164_Access_Home_dashboard_page_to_view_Travel_Analytics .feature" />
     <None Include="Features\GUI\1226_standard_header_navigation.feature" />
     <None Include="Features\GUI\1227_standard_footer_navigation.feature" />
+    <None Include="Features\Reports\1163_GSM042_Savings_Rejected.feature" />
+    <None Include="Features\Reports\1156_GSM031_Sales_Comparison_Report.feature" />
+    <None Include="Features\Reports\1162_GSM041_Savings_Accepted.feature" />
+    <None Include="Features\Reports\1161_GSM068_Hotel_Booking_by_Vendor.feature" />
+    <None Include="Features\Reports\1159_GSM072_ Client_Top_10_Destinations_by_Spend.feature" />
+    <None Include="Features\Reports\1160_GSM080_Airline_Sales_Summary.feature" />
+    <None Include="Features\Reports\1158_GSM082_Expenditure_by_Product.feature" />
     <None Include="Features\smoke.feature">
       <Generator>SpecFlowSingleFileGenerator</Generator>
       <LastGenOutput>smoke.cs</LastGenOutput>
