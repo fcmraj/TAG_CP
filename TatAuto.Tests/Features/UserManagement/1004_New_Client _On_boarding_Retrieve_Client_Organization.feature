@@ -18,7 +18,8 @@ Scenario Outline: Preconditions: User logged in to the portal
 
 Scenario:1 Successful User Client Account Creation and Define Organization level permissions
 	Given Admin user navigate to Client Account management from the navigation menu
-	When select the <'organization>' from organization drop-down
+	When user click on create new client button
+	And select the <'organization>' from organization drop-down
 	And  click on Create Client Account
 	Then successful message should show as 'Client Account Successfully Created'
 	And create organization should available on organization list
@@ -29,19 +30,23 @@ Scenario:1 Successful User Client Account Creation and Define Organization level
 	Then successful message should show as 'Permissions set successfully'
 	And users belongs to created organizations should be able to access only given '<options'>
 	Examples:
-	| Options                 | Organization | permited |
-	| Reports                 | Org1         | Yes      |
-	| Travel Risk Information | Org1         | Yes      |
-	| Dashboards              | Org1         | Yes      |
-	| Reports                 | Org2         | Yes      |
-	| Travel Risk Information | Org2         | Yes      |
-	| Dashboards              | Org2         | N0       |
-	| Reports                 | Org3         | Yes      |
-	| Travel Risk Information | Org3         | No       |
-	| Dashboards              | Org3         | No       |
-	| Reports                 | Org4         | No       |
-	| Travel Risk Information | Org4         | No       |
-	| Dashboards              | Org4         | No       |
+	| Options                 | Organization				| permited |
+	| Reports                 | Apple Orchard Tour			| Yes      |
+	| Travel Risk Information | Apple Orchard Tour			| Yes      |
+	| Dashboards              | Apple Orchard Tour			| Yes      |
+	| Branding                | Apple Orchard Tour			| Yes      |
+	| Reports                 | British Airways Plc         | Yes      |
+	| Travel Risk Information | British Airways Plc         | Yes      |
+	| Dashboards              | British Airways Plc         | N0       |
+	| Branding                | British Airways Plc         | N0       |
+	| Reports                 | Cato Music Ltd				| Yes      |
+	| Travel Risk Information | Cato Music Ltd				| No       |
+	| Dashboards              | Cato Music Ltd				| No       |
+	| Branding                | Cato Music Ltd				| No       |
+	| Reports                 | Darah Music Ltd				| No       |
+	| Travel Risk Information | Darah Music Ltd				| No       |
+	| Dashboards              | Darah Music Ltd				| No       |
+	| Branding                | Darah Music Ltd				| No       |
 
 
 Scenario:2 Unsuccessful User Client Account Creation - existing client organization

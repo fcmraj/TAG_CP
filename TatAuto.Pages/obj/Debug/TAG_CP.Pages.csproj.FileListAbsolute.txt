@@ -32,3 +32,17 @@ E:\Automation_Projects\Samples\C#_Projects\SpecflowWithPageObjects\TAG_Client_Po
 E:\Automation_Projects\Samples\C#_Projects\SpecflowWithPageObjects\TAG_Client_Portal - Copy\TatAuto.Pages\obj\Debug\TAG_CP.Pages.csproj.CopyComplete
 E:\Automation_Projects\Samples\C#_Projects\SpecflowWithPageObjects\TAG_Client_Portal - Copy\TatAuto.Pages\obj\Debug\TatAuto.Pages.dll
 E:\Automation_Projects\Samples\C#_Projects\SpecflowWithPageObjects\TAG_Client_Portal - Copy\TatAuto.Pages\obj\Debug\TatAuto.Pages.pdb
+E:\Automation_Projects\Samples\C#_Projects\SpecflowWithPageObjects\GIT_HUB\TAG_CP\TatAuto.Pages\bin\Debug\TatAuto.Pages.dll.config
+E:\Automation_Projects\Samples\C#_Projects\SpecflowWithPageObjects\GIT_HUB\TAG_CP\TatAuto.Pages\bin\Debug\TatAuto.Pages.dll
+E:\Automation_Projects\Samples\C#_Projects\SpecflowWithPageObjects\GIT_HUB\TAG_CP\TatAuto.Pages\bin\Debug\TatAuto.Pages.pdb
+E:\Automation_Projects\Samples\C#_Projects\SpecflowWithPageObjects\GIT_HUB\TAG_CP\TatAuto.Pages\bin\Debug\Newtonsoft.Json.dll
+E:\Automation_Projects\Samples\C#_Projects\SpecflowWithPageObjects\GIT_HUB\TAG_CP\TatAuto.Pages\bin\Debug\TechTalk.SpecFlow.dll
+E:\Automation_Projects\Samples\C#_Projects\SpecflowWithPageObjects\GIT_HUB\TAG_CP\TatAuto.Pages\bin\Debug\WebDriver.dll
+E:\Automation_Projects\Samples\C#_Projects\SpecflowWithPageObjects\GIT_HUB\TAG_CP\TatAuto.Pages\bin\Debug\WebDriver.Support.dll
+E:\Automation_Projects\Samples\C#_Projects\SpecflowWithPageObjects\GIT_HUB\TAG_CP\TatAuto.Pages\bin\Debug\Newtonsoft.Json.xml
+E:\Automation_Projects\Samples\C#_Projects\SpecflowWithPageObjects\GIT_HUB\TAG_CP\TatAuto.Pages\bin\Debug\WebDriver.xml
+E:\Automation_Projects\Samples\C#_Projects\SpecflowWithPageObjects\GIT_HUB\TAG_CP\TatAuto.Pages\bin\Debug\WebDriver.Support.xml
+E:\Automation_Projects\Samples\C#_Projects\SpecflowWithPageObjects\GIT_HUB\TAG_CP\TatAuto.Pages\obj\Debug\TAG_CP.Pages.csprojAssemblyReference.cache
+E:\Automation_Projects\Samples\C#_Projects\SpecflowWithPageObjects\GIT_HUB\TAG_CP\TatAuto.Pages\obj\Debug\TAG_CP.Pages.csproj.CopyComplete
+E:\Automation_Projects\Samples\C#_Projects\SpecflowWithPageObjects\GIT_HUB\TAG_CP\TatAuto.Pages\obj\Debug\TatAuto.Pages.dll
+E:\Automation_Projects\Samples\C#_Projects\SpecflowWithPageObjects\GIT_HUB\TAG_CP\TatAuto.Pages\obj\Debug\TatAuto.Pages.pdb

@@ -17,7 +17,12 @@ namespace TatAuto.Pages
         [FindsBy(How = How.Id, Using = "swal2-content")]
         protected IWebElement ErrorText { get; set; }
 
-        private readonly IWebDriver _driver;
+        [FindsBy(How = How.XPath, Using = "/html/body/div[2]/div/a[2]")]
+        protected IWebElement AcceptCookies { get; set; }
+
+
+
+            private readonly IWebDriver _driver;
 
         public LoginPObject(IWebDriver driver)
         {
@@ -46,6 +51,7 @@ namespace TatAuto.Pages
         {
             UsernameTxtBox.SendKeys(username);
             PasswordTxtBox.SendKeys(password);
+            AcceptCookies.Click();
             LoginBtn.Click();
         }
     }

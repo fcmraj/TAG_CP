@@ -4,9 +4,10 @@ I want a self-service password setup at onboarding
 so that I can gain access to my account on the TAG corporate portal. 
 #978 - SelfServicePasswordSetup
 #1115 - Enforce Strong Password Policy 
+#Mannual execution done
 
 
-@mytag
+@mytag 
 Scenario:01  View Password policy
 	Given TAG client portal URL is loaded
 	And User is in create password page

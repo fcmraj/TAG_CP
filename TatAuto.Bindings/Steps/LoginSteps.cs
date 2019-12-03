@@ -20,7 +20,7 @@ namespace TatAuto.Bindings.Steps
         [Given(@"I Navigate to the Login page")]
         public void GivenINavigateToTheLoginPage()
         {
-           _driver.Navigate().GoToUrl("https://portalangular.z13.web.core.windows.net/account/login");
+           _driver.Navigate().GoToUrl("https://corporateportaluatui.z13.web.core.windows.net/account/login");
             Thread.Sleep(10000);
 
             
